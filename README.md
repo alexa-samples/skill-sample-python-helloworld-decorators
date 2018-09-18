@@ -29,10 +29,10 @@ or by using skill builder's ``request_handler`` decorator. More information
 on this can be checked in the [documentation](https://alexa-skills-kit-python-sdk.readthedocs.io/en/latest/REQUEST_PROCESSING.html#request-handlers).
 
 This sample skill shows how to use skill builder's ``request_handler`` decorator. 
-The code for this implementation is under [lambda](lambda) folder.
+The code for this implementation is under [lambda/py](lambda/py) folder.
 
 For the sample skill using the ``AbstractRequestHandler`` classes approach, check 
-[skill-sample-python-helloworld-classes](https://github.com/alexa-labs/skill-sample-python-helloworld-classes).
+[skill-sample-python-helloworld-classes](https://github.com/alexa/skill-sample-python-helloworld-classes).
 
 Additional Resources
 --------------------
