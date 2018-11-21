@@ -1,0 +1,32 @@
+{
+    "manifest": {
+      "publishingInformation": {
+        "locales": {
+          "en-US": {
+            "summary": "Sample Short Description",
+            "examplePhrases": [
+              "Alexa open hello decorator world",
+              "hello",
+              "help"
+            ],
+            "name": "Hello Decorator World",
+            "description": "Sample Full Description"
+          }
+        },
+        "isAvailableWorldwide": true,
+        "testingInstructions": "Sample Testing Instructions.",
+        "category": "KNOWLEDGE_AND_TRIVIA",
+        "distributionCountries": []
+      },
+      "apis": {
+        "custom": {
+          "endpoint": {
+            "sourceDir": "lambda/py",
+            "uri": "ask-custom-helloworld-decorators-default"
+          }
+        }
+      },
+      "manifestVersion": "1.0"
+    }
+  }
+  
